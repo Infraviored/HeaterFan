@@ -3,7 +3,7 @@
 
 // Wi-Fi network credentials
 const char* ssid = "Martin Router King";
-const char* password = "Routerking!1312";
+const char* password = "kingofrouters8899";
 
 // MQTT broker settings
 const char* mqtt_server = "homeassistant.local";
